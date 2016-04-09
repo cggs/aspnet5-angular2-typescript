@@ -15,7 +15,7 @@
 <li>Bower</li>
 </ul>
 
-<h3>Installation instructions - Part 1 (Applied for Windows/Linux/MAC)</h3>
+<h3>API Installation instructions - Part 1 (Applied for Windows/Linux/MAC)</h3>
 <ol>
 <li>Install ASP.NET 5 according to your development environment from <a href="http://docs.asp.net/en/latest/getting-started/index.html" target="_blank">here</a>.</li>
 <li>Install <strong>NPM</strong> by installing <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.</li>
